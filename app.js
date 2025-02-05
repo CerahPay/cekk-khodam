@@ -8,11 +8,11 @@ document.getElementById('khodamForm').addEventListener('submit', function(e){
 
 function generateKhodam(nama){
     const khodams = [
-        'Kuda Jantan',
-        'Buah Naga',
-        'Singa Senyum',
-        'Naga Guling',
-        'Macan Tersenyum',
+        'Kontol kejepit',
+        'Om amba',
+        'Memek sempit',
+        'Unyil',
+        'Monyet jungkir balik',
         'Elang Ganteng',
         'Kuda Bersemangat',
         'Kelinci Gemas',
